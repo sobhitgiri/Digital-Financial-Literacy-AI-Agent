@@ -37,7 +37,7 @@ A document-grounded AI chatbot trained using IBM Watsonx.ai and IBM Granite, off
 - NGOs, outreach programs, SHGs
 - First-time UPI and digital banking users
 
-  🌟 WOW Factors
+🌟 WOW Factors
   
  - Uses RAG to fetch answers from real RBI/NPCI or uploaded PDFs
  -Built entirely on IBM Cloud using Watsonx tools
@@ -65,40 +65,61 @@ A document-grounded AI chatbot trained using IBM Watsonx.ai and IBM Granite, off
 🖼️ Screenshots
 
 🔹 RESOURCES LIST :-
+
 <img width="1919" height="875" alt="Resource List" src="https://github.com/user-attachments/assets/ebfe3141-8261-491b-adb2-4537749f51db" />
 
+
 🔹 IBM GRANITE USED IN WATSON.AI STUDIO :-
+
 <img width="986" height="204" alt="IBM GRANITE" src="https://github.com/user-attachments/assets/aae229b9-9c0e-4373-ab0c-ab733a2c1ae7" />
 
+
 🔹 SETUP :-
+
 <img width="1919" height="1004" alt="setup" src="https://github.com/user-attachments/assets/90f6084e-1e38-4f2a-b2f4-c15eacc15946" />
 
+
 🔹 AGENT INSTRUCTIONS :-
+
 <img width="1918" height="1010" alt="Agent_Instructions" src="https://github.com/user-attachments/assets/58b0c1b7-a204-4f17-8489-3a583e36a194" />
 
+
 🔹PROMPT QUESTIONS :-
+
 <img width="1917" height="875" alt="Prompt_questions" src="https://github.com/user-attachments/assets/8b9cde70-d055-49c8-9903-c8f1b2290b6a" />
 
+
 🔹TOOLS USED :-
+
 <img width="1919" height="1002" alt="Model tools_testing2" src="https://github.com/user-attachments/assets/1c7abe6d-5ea7-4966-b1f5-be618098d9d6" />
 <img width="1919" height="1002" alt="Model tools_testing" src="https://github.com/user-attachments/assets/fe0d6c0e-5c47-4cf4-9e6e-105a049705a4" />
 
+
 🔹 TESTING :-
+
 <img width="1919" height="875" alt="Testing4" src="https://github.com/user-attachments/assets/1960ef3c-a615-4fbf-910d-e80ec4797b77" />
 <img width="1919" height="879" alt="Testing3" src="https://github.com/user-attachments/assets/30cf26b2-26f4-4d35-b659-aac40e208852" />
 <img width="1909" height="880" alt="Testing2" src="https://github.com/user-attachments/assets/fe0ea564-fffb-4617-a337-ff30ecad92a5" />
 <img width="1918" height="868" alt="Testing1" src="https://github.com/user-attachments/assets/ca94ce44-2568-4e6f-b920-9cd55385f7d0" />
 
+
 🔹 DEPLOYMENT :-
+
 <img width="1919" height="1009" alt="Deployment" src="https://github.com/user-attachments/assets/b99987f6-d13e-44f4-bf45-c608ed1a31d2" />
 
+
  🔹 API KEY REFERENCES AFTER DEPLOYMENT :-
+ 
  <img width="1908" height="1006" alt="Links" src="https://github.com/user-attachments/assets/f1515c45-0669-4525-baa1-85cb56764661" />
+ 
 
  🔹 CODE SNIPPET :-
+ 
  <img width="1919" height="1004" alt="Screenshot 2025-08-03 101001" src="https://github.com/user-attachments/assets/9c00c8d1-51d0-41b1-a3e2-4329fa71b66e" />
  
+ 
 📌 How to Run or Deploy
+
 -Log in to IBM Cloud Lite: https://cloud.ibm.com
 -Launch Watsonx.ai Studio
 -Create a new AI Agent
