@@ -146,7 +146,7 @@ A document-grounded AI chatbot trained using IBM Watsonx.ai and IBM Granite, off
 
 ⚖️ License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the MIT License.
 
  🙌 Credits
 
